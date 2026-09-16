@@ -7,11 +7,11 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/luis-fernando-bustos-marquez
+      href: https://www.linkedin.com/in/luis-fernando-bustos-marquez
 
     - icon: github
       text: GitHub
-      href: https://github.com/YOURUSERNAME
+      href: https://github.com//luisbustosmarquez
 ---
 
 # Electrical Engineer & Researcher
