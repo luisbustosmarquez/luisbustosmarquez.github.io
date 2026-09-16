@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+## Data Center Energy Systems
+
+My current research examines the energy and power-system implications
+of rapidly growing data-center loads...
+
+## Microgrids and Energy Storage
+
+My work investigates grid-connected and islanded microgrid
+architectures...
+
+## Photovoltaic Systems
+
+I have worked extensively on bifacial photovoltaic systems,
+performance monitoring...
+
+## Data Analytics for Energy Systems
+
+My research uses physics-informed modeling, machine learning,
+statistical analysis...

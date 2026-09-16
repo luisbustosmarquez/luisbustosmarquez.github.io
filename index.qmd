@@ -1,0 +1,53 @@
+---
+title: "Luis Fernando Bustos Márquez"
+
+about:
+  template: jolla
+  image: images/profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/luis-fernando-bustos-marquez
+
+    - icon: github
+      text: GitHub
+      href: https://github.com/YOURUSERNAME
+---
+
+# Electrical Engineer & Researcher
+
+**Power Systems • Data Center Energy • Microgrids • Photovoltaics**
+
+I am a Ph.D. Candidate in Electrical and Computer Engineering at the
+University of Delaware, with research and industry experience spanning
+power systems, renewable energy, data-center energy systems, load
+forecasting, photovoltaics, microgrids, and data analytics.
+
+My work focuses on understanding and designing energy systems that
+integrate emerging electric loads, distributed energy resources,
+renewable generation, energy storage, and data-driven methods.
+
+## Current Focus
+
+### Data Center Energy Systems
+Load forecasting, emerging load behavior, grid impacts, and energy
+infrastructure for large computing facilities.
+
+### Microgrids & Energy Storage
+Techno-economic analysis, resilience, PV+BESS systems, and grid-connected
+and islanded microgrids.
+
+### Photovoltaic Systems
+Bifacial PV, performance modeling, irradiance analysis, and
+data-driven power prediction.
+
+### Power Systems
+Power-system analysis, renewable integration, load modeling, and
+modern grid challenges.
+
+## Selected Work
+
+[Research](research.qmd)  
+[Publications](publications.qmd)  
+[Teaching & Experience](teaching.qmd)  
+[Curriculum Vitae](cv.qmd)

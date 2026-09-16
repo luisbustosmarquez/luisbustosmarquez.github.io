@@ -1,0 +1,26 @@
+---
+title: "Teaching & Professional Experience"
+---
+
+## University of Delaware
+
+### Electrical Power Systems — ELEG 415/615
+Spring 2027
+
+Instructor...
+
+### Solar Electric Technology and Applications — ELEG 428/628
+
+Teaching Assistant...
+
+## Dominion Energy
+
+### Graduate Intern — Load Forecasting
+Summer 2026
+
+Worked on emerging and non-conforming electric load patterns,
+including data-center load profiles and forecasting...
+
+## Previous Teaching
+
+...

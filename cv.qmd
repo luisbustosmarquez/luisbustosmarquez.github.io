@@ -1,0 +1,26 @@
+---
+title: "Curriculum Vitae"
+---
+
+My current curriculum vitae is available below.
+
+[Download CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-primary}
+
+## Education
+
+**Ph.D. Candidate, Electrical & Computer Engineering**  
+University of Delaware
+
+...
+
+## Research Experience
+
+...
+
+## Teaching
+
+...
+
+## Awards
+
+...

@@ -1,0 +1,25 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+### 2026
+
+**Luis F. Bustos-Márquez**, Steven Hegedus, et al.  
+"Title of paper."  
+*Solar Energy*, 2026.  
+[DOI / Publisher]
+
+**Luis F. Bustos-Márquez**, Steven Hegedus.  
+"An Algorithmic Framework for Plant-Level AC Power Estimation..."
+*Algorithms*, 2026.  
+[Paper]
+
+## Conference Publications
+
+...
+
+## Selected Presentations
+
+...

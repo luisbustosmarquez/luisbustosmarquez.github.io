@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Luis Fernando Bustos Márquez"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: research.qmd
+        text: Research
+
+      - href: publications.qmd
+        text: Publications
+
+      - href: teaching.qmd
+        text: Teaching & Experience
+
+      - href: cv.qmd
+        text: CV
+
+    right:
+      - icon: github
+        href: https://github.com/YOURUSERNAME
+
+      - icon: linkedin
+        href: YOUR-LINKEDIN-URL
+
+  page-footer:
+    center: "© 2026 Luis Fernando Bustos Márquez"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
