@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Professional Experience",
+    "section": "",
+    "text": "Spring 2027\nInstructor…\n\n\n\nTeaching Assistant…"
+  },
+  {
+    "objectID": "teaching.html#university-of-delaware",
+    "href": "teaching.html#university-of-delaware",
+    "title": "Teaching & Professional Experience",
+    "section": "",
+    "text": "Spring 2027\nInstructor…\n\n\n\nTeaching Assistant…"
+  },
+  {
+    "objectID": "teaching.html#dominion-energy",
+    "href": "teaching.html#dominion-energy",
+    "title": "Teaching & Professional Experience",
+    "section": "Dominion Energy",
+    "text": "Dominion Energy\n\nGraduate Intern — Load Forecasting\nSummer 2026\nWorked on emerging and non-conforming electric load patterns, including data-center load profiles and forecasting…"
+  },
+  {
+    "objectID": "teaching.html#previous-teaching",
+    "href": "teaching.html#previous-teaching",
+    "title": "Teaching & Professional Experience",
+    "section": "Previous Teaching",
+    "text": "Previous Teaching\n…"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Luis F. Bustos-Márquez, Steven Hegedus, et al.\n“Title of paper.”\nSolar Energy, 2026.\n[DOI / Publisher]\nLuis F. Bustos-Márquez, Steven Hegedus.\n“An Algorithmic Framework for Plant-Level AC Power Estimation…” Algorithms, 2026.\n[Paper]"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Luis F. Bustos-Márquez, Steven Hegedus, et al.\n“Title of paper.”\nSolar Energy, 2026.\n[DOI / Publisher]\nLuis F. Bustos-Márquez, Steven Hegedus.\n“An Algorithmic Framework for Plant-Level AC Power Estimation…” Algorithms, 2026.\n[Paper]"
+  },
+  {
+    "objectID": "publications.html#conference-publications",
+    "href": "publications.html#conference-publications",
+    "title": "Publications",
+    "section": "Conference Publications",
+    "text": "Conference Publications\n…"
+  },
+  {
+    "objectID": "publications.html#selected-presentations",
+    "href": "publications.html#selected-presentations",
+    "title": "Publications",
+    "section": "Selected Presentations",
+    "text": "Selected Presentations\n…"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My current curriculum vitae is available below.\nDownload CV"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPh.D. Candidate, Electrical & Computer Engineering\nUniversity of Delaware\n…"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n…"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\n…"
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "Curriculum Vitae",
+    "section": "Awards",
+    "text": "Awards\n…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luis Fernando Bustos Márquez",
+    "section": "",
+    "text": "Power Systems • Data Center Energy • Microgrids • Photovoltaics\nI am a Ph.D. Candidate in Electrical and Computer Engineering at the University of Delaware, with research and industry experience spanning power systems, renewable energy, data-center energy systems, load forecasting, photovoltaics, microgrids, and data analytics.\nMy work focuses on understanding and designing energy systems that integrate emerging electric loads, distributed energy resources, renewable generation, energy storage, and data-driven methods.\n\n\n\n\nLoad forecasting, emerging load behavior, grid impacts, and energy infrastructure for large computing facilities.\n\n\n\nTechno-economic analysis, resilience, PV+BESS systems, and grid-connected and islanded microgrids.\n\n\n\nBifacial PV, performance modeling, irradiance analysis, and data-driven power prediction.\n\n\n\nPower-system analysis, renewable integration, load modeling, and modern grid challenges.\n\n\n\n\nResearch\nPublications\nTeaching & Experience\nCurriculum Vitae"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Luis Fernando Bustos Márquez",
+    "section": "",
+    "text": "Load forecasting, emerging load behavior, grid impacts, and energy infrastructure for large computing facilities.\n\n\n\nTechno-economic analysis, resilience, PV+BESS systems, and grid-connected and islanded microgrids.\n\n\n\nBifacial PV, performance modeling, irradiance analysis, and data-driven power prediction.\n\n\n\nPower-system analysis, renewable integration, load modeling, and modern grid challenges."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Luis Fernando Bustos Márquez",
+    "section": "",
+    "text": "Research\nPublications\nTeaching & Experience\nCurriculum Vitae"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My current research examines the energy and power-system implications of rapidly growing data-center loads…"
+  },
+  {
+    "objectID": "research.html#data-center-energy-systems",
+    "href": "research.html#data-center-energy-systems",
+    "title": "Research",
+    "section": "",
+    "text": "My current research examines the energy and power-system implications of rapidly growing data-center loads…"
+  },
+  {
+    "objectID": "research.html#microgrids-and-energy-storage",
+    "href": "research.html#microgrids-and-energy-storage",
+    "title": "Research",
+    "section": "Microgrids and Energy Storage",
+    "text": "Microgrids and Energy Storage\nMy work investigates grid-connected and islanded microgrid architectures…"
+  },
+  {
+    "objectID": "research.html#photovoltaic-systems",
+    "href": "research.html#photovoltaic-systems",
+    "title": "Research",
+    "section": "Photovoltaic Systems",
+    "text": "Photovoltaic Systems\nI have worked extensively on bifacial photovoltaic systems, performance monitoring…"
+  },
+  {
+    "objectID": "research.html#data-analytics-for-energy-systems",
+    "href": "research.html#data-analytics-for-energy-systems",
+    "title": "Research",
+    "section": "Data Analytics for Energy Systems",
+    "text": "Data Analytics for Energy Systems\nMy research uses physics-informed modeling, machine learning, statistical analysis…"
+  }
+]
