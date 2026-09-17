@@ -2,25 +2,143 @@
 title: "Teaching & Professional Experience"
 ---
 
+My teaching and professional experience spans **power systems, renewable energy, photovoltaics, electric circuits, engineering education, and electric-utility analytics**.
+
+I have taught and supported engineering courses in both the United States and Colombia, ranging from introductory circuit analysis to senior- and graduate-level renewable energy courses. My teaching approach emphasizes connecting fundamental engineering principles with computational tools, real-world systems, and current challenges in the electric grid.
+
+[Download CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-primary}
+
+---
+
 ## University of Delaware
 
 ### Electrical Power Systems — ELEG 415/615
-Spring 2027
+**Instructor · Spring 2027**
 
-Instructor...
+I am preparing and teaching ELEG 415/615, a senior- and graduate-level course in electric power systems.
+
+The course develops the foundations of power-system analysis while connecting classical methods to modern grid challenges, including renewable generation, distributed energy resources, electrification, energy storage, and emerging large loads such as data centers.
+
+Topics include power-system modeling, three-phase systems, transformers, transmission and distribution fundamentals, power flow, and the operation and control of modern electric grids.
+
+My course design combines:
+
+- Fundamental power-system theory
+- Analytical problem solving
+- Computational examples and engineering software
+- Real-world grid applications
+- Renewable and distributed energy integration
+- Emerging power-system challenges
+
+---
 
 ### Solar Electric Technology and Applications — ELEG 428/628
+**Teaching Assistant · 2023–Present**
 
-Teaching Assistant...
+Senior- and graduate-level course covering photovoltaic technology, system design, energy production, and applications.
 
-## Dominion Energy
+My responsibilities include:
+
+- Leading laboratory sessions
+- Supporting lectures and technical demonstrations
+- Grading assignments and projects
+- Guiding senior and graduate student projects
+- Supporting students with photovoltaic modeling and system analysis
+
+---
+
+### Renewable Energy Microgrids — ELEG 457/657
+**Teaching Assistant · University of Delaware**
+
+Supported instruction for senior and graduate students in renewable energy microgrids.
+
+Responsibilities included laboratory instruction, lectures, course-material development, and project guidance for classes of more than 80 students.
+
+---
+
+## Teaching Recognition
+
+### Outstanding Teaching Assistant Award — 2026
+**Department of Electrical & Computer Engineering, University of Delaware**
+
+Recognized for excellence in teaching, student support, and instructional contributions in electrical and computer engineering.
+
+### Graduate Student Excellence in Service & Teaching Award Nominee
+**College of Engineering, University of Delaware · 2024 & 2026**
+
+Nominated for contributions to teaching, service, and student engagement.
+
+---
+
+## Industry Experience
 
 ### Graduate Intern — Load Forecasting
-Summer 2026
+**Dominion Energy · Glen Allen, Virginia · Summer 2026**
 
-Worked on emerging and non-conforming electric load patterns,
-including data-center load profiles and forecasting...
+Worked with the Load Forecasting team in Electric Transmission on emerging and non-conforming electric load patterns.
 
-## Previous Teaching
+My work included:
 
-...
+- Analyzing utility-scale load datasets
+- Investigating data center load profiles
+- Studying forecasting uncertainty associated with emerging electric loads
+- Developing data-analysis and visualization workflows
+- Translating analytical findings into insights relevant to utility planning and operations
+- Collaborating with load forecasting engineers and planning stakeholders
+
+This experience strengthened the connection between my academic work and practical power-system planning, particularly in the areas of large-load growth, data centers, grid demand, and forecasting.
+
+---
+
+## Previous University Teaching
+
+### Adjunct Professor
+**Francisco de Paula Santander University · Cúcuta, Colombia · 2019–2022**
+
+Before beginning my Ph.D., I taught undergraduate electrical and electronics engineering courses including:
+
+- Photovoltaic Solar Energy
+- Analysis of Electric Circuits in DC and AC
+- Electronics I
+- Antenna Theory
+- Microelectronics
+- Introduction to Industrial Automation
+- Introduction to Electronic Circuits
+
+I also advised and supervised five undergraduate senior theses and capstone projects, primarily in renewable energy and electronics, and contributed to the development of the Electronics Engineering program curriculum.
+
+---
+
+## Earlier Teaching Experience
+
+### Mathematics & Physics Teacher
+**London Bilingual Institute · Cúcuta, Colombia · 2017–2022**
+
+Taught mathematics and physics and served as Chair of the Mathematics Department.
+
+My responsibilities included classroom instruction, curriculum coordination, and supervision of student research projects. During this period, the school reached the top 10 in mathematics performance at the state level.
+
+---
+
+## Teaching Development
+
+My teaching preparation has included formal training in university instruction, course design, research communication, and engineering education.
+
+Selected training includes:
+
+**Preparing Future Faculty Workshop** · Auburn University  
+**Summer Institute on Teaching** · University of Delaware  
+**Innovative Teaching Strategies** · University of Delaware  
+**International Teaching Assistant Program** · University of Delaware  
+
+I was certified as an **Instructor Category I** through the University of Delaware English Language Institute.
+
+---
+
+## Teaching Areas
+
+**Power Systems** · **Renewable Energy** · **Photovoltaic Systems** · **Microgrids** · **Electric Circuits** · **Energy Storage** · **Engineering Computation**
+
+---
+
+[Download Full CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-primary}

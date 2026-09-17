@@ -2,25 +2,204 @@
 title: "Curriculum Vitae"
 ---
 
-My current curriculum vitae is available below.
+My work spans **power systems, renewable energy, data center energy systems, microgrids, photovoltaics, and data-driven energy analysis**. I combine academic research, university teaching, and electric-utility experience, with particular interests in emerging electric loads, renewable integration, energy storage, and resilient power systems.
 
-[Download CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-primary}
+[Download Full CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-primary}
+
+---
 
 ## Education
 
-**Ph.D. Candidate, Electrical & Computer Engineering**  
+### Ph.D. Candidate in Electrical & Computer Engineering
+**University of Delaware** · Newark, Delaware, USA  
+2022–Present · Expected May 2027  
+**GPA:** 3.9/4.0
+
+Research focus: power systems, renewable energy microgrids, data center energy systems, photovoltaics, energy storage, and data analytics.
+
+### M.S. in Mathematics Education
+**Francisco de Paula Santander University** · Cúcuta, Colombia  
+2020–2022  
+**GPA:** 4.8/5.0
+
+### Specialist in University Pedagogical Practice
+**Francisco de Paula Santander University** · Cúcuta, Colombia  
+2017–2018  
+**GPA:** 4.8/5.0
+
+### B.S. in Electronics Engineering
+**Francisco de Paula Santander University** · Cúcuta, Colombia  
+2010–2016  
+**GPA:** 4.2/5.0
+
+---
+
+## Professional & Research Experience
+
+### Graduate Intern — Load Forecasting
+**Dominion Energy** · Glen Allen, Virginia, USA  
+May–August 2026
+
+- Analyzed non-conforming and emerging electric load patterns to support utility forecasting and planning.
+- Investigated data center load profiles and their implications for grid demand, forecasting uncertainty, and resource planning.
+- Applied data analytics and visualization workflows to utility-scale load datasets.
+- Collaborated with load forecasting engineers and planning stakeholders to translate analytical results into operational insights.
+
+### Research Assistant
+**Institute of Energy Conversion, University of Delaware**  
+2022–Present
+
+- Research renewable and resilient microgrid architectures for emerging data center loads.
+- Apply machine learning and data analytics to bifacial photovoltaic system modeling and energy prediction.
+- Model PV and battery energy storage systems for peak-load management and resilience.
+- Contributed to research involving distributed energy resource integration and faster-than-real-time simulation.
+- Mentor graduate students working on machine learning and renewable-energy data projects.
+
+### Teaching Assistant
+**Department of Electrical & Computer Engineering, University of Delaware**  
+2023–Present
+
+- Support senior- and graduate-level instruction in renewable energy and photovoltaic systems.
+- Lead laboratory activities, lectures, project guidance, and technical instruction.
+- Develop instructional material and support student projects in renewable energy systems.
+
+### Adjunct Professor
+**Francisco de Paula Santander University** · Cúcuta, Colombia  
+2019–2022
+
+Taught undergraduate courses including:
+
+- Photovoltaic Solar Energy
+- Electric Circuits
+- Electronics
+- Antenna Theory
+- Microelectronics
+- Industrial Automation
+
+Advised and supervised undergraduate theses and capstone projects in renewable energy and electronics.
+
+---
+
+## Selected Research Areas
+
+### Data Center Energy Systems
+Grid impacts, load forecasting, emerging electric loads, microgrids, and energy infrastructure for large computing facilities.
+
+### Renewable & Resilient Microgrids
+Techno-economic analysis, PV+BESS systems, grid-connected and islanded architectures, resilience, and energy management.
+
+### Photovoltaic Systems
+Bifacial PV, irradiance characterization, performance monitoring, system modeling, and machine-learning-assisted power prediction.
+
+### Power Systems & Energy Storage
+Distributed energy resources, peak-load management, renewable integration, battery storage, and modern grid challenges.
+
+[Explore my research](research.qmd){.btn .btn-outline-primary}
+
+---
+
+## Selected Honors & Awards
+
+**2026 — Best Poster Award**  
+Dominion Energy Virginia, Electric Transmission
+
+**2026 — Outstanding Teaching Assistant Award**  
+Department of Electrical & Computer Engineering, University of Delaware
+
+**2026 — Student Grant Award**  
+Hispanics in Energy – Virginia
+
+**2025 — Junior Researcher & National Peer Reviewer**  
+Ministry of Science, Technology, and Innovation (MinCiencias), Colombia
+
+**2025 — Best Poster Award**  
+Department of Electrical & Computer Engineering, University of Delaware
+
+**2025 — Ph.D. Dissertation Challenge Finalist**  
+IEEE PES Grid Edge Technologies Conference & Exposition
+
+**2024 — Westerman Family Graduate Research Fund Fellowship**  
 University of Delaware
 
-...
+**2024 — Best Poster Award**  
+IEEE Conference on Technologies for Sustainability (SusTech)
 
-## Research Experience
+**2024 — Best Student Oral Presentation Award Finalist**  
+IEEE Photovoltaic Specialists Conference
 
-...
+**2023 — Best Poster Award**  
+Delaware Environmental Institute Environmental Symposium
 
-## Teaching
+**2016 — National Top Score, Saber Pro Examination**  
+Electronics Engineering, Colombia
 
-...
+---
 
-## Awards
+## Publications & Scholarly Work
 
-...
+My scholarly work includes peer-reviewed journal articles and conference papers in:
+
+- Renewable energy microgrids
+- Data center energy systems
+- Bifacial photovoltaic systems
+- Machine learning for PV power estimation
+- Energy storage and peak-load management
+- Solar-energy resource assessment
+- Engineering education and educational data analytics
+
+Recent journal publications include work in **Solar Energy** and **Algorithms**, along with additional research in photovoltaic systems, energy management, and engineering education.
+
+[View Publications](publications.qmd){.btn .btn-outline-primary}
+
+---
+
+## Patent & Intellectual Property
+
+**Device and Method of Charging and Discharging a Battery through Maximum Power Point Tracking**  
+Co-inventor · Francisco de Paula Santander University  
+Patent registration active through 2032.
+
+Additional registered software includes photovoltaic MPPT control algorithms and research software developed through university research projects.
+
+---
+
+## Teaching & Academic Leadership
+
+My teaching experience spans university instruction in the United States and Colombia, including renewable energy, photovoltaics, electric circuits, electronics, and engineering applications.
+
+I have also contributed to graduate-student leadership, engineering outreach, curriculum development, and professional engagement.
+
+[Teaching & Professional Experience](teaching.qmd){.btn .btn-outline-primary}
+
+---
+
+## Technical Skills
+
+**Advanced:**  
+Python · MATLAB · HOMER Grid · System Advisor Model (SAM) · Microsoft Office · OrCAD
+
+**Intermediate:**  
+LaTeX · Xendee · C++ · R
+
+**Energy Systems:**  
+Microgrid modeling · Photovoltaic systems · Battery energy storage · Load forecasting · Energy data analytics
+
+**Languages:**  
+Spanish — Native  
+English — Advanced
+
+---
+
+## Professional Memberships
+
+- **IEEE** — Professional Member
+- **IEEE Power & Energy Society**
+- **IEEE Young Professionals**
+- **IEEE Smart Grid Community**
+- **Tau Beta Pi** — Graduate Member
+- **Sigma Xi** — Full Member
+- **Colombian Association of Engineers (ACIEM)** — Professional Member
+
+---
+
+[Download Full CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-primary}

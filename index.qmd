@@ -2,52 +2,78 @@
 title: "Luis Fernando Bustos Márquez"
 
 about:
-  template: jolla
+  template: trestles
   image: images/profile.jpg
   links:
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/Luis_Bustos_Marquez_CV.pdf
+
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=AX_RTcgAAAAJ&hl=en
+
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/luis-fernando-bustos-marquez
 
     - icon: github
       text: GitHub
-      href: https://github.com//luisbustosmarquez
+      href: https://github.com/luisbustosmarquez
 ---
 
-# Electrical Engineer & Researcher
+## Electrical Engineer & Researcher
 
-**Power Systems • Data Center Energy • Microgrids • Photovoltaics**
+**Power Systems · Data Center Energy · Microgrids · Photovoltaics**
 
 I am a Ph.D. Candidate in Electrical and Computer Engineering at the
-University of Delaware, with research and industry experience spanning
-power systems, renewable energy, data-center energy systems, load
-forecasting, photovoltaics, microgrids, and data analytics.
+University of Delaware. My work spans power systems, renewable energy,
+data-center energy systems, microgrids, photovoltaics, energy storage,
+load forecasting, and data-driven energy analysis.
 
-My work focuses on understanding and designing energy systems that
-integrate emerging electric loads, distributed energy resources,
-renewable generation, energy storage, and data-driven methods.
+My research focuses on understanding how **emerging electric loads,
+distributed energy resources, renewable generation, and energy storage**
+can be integrated into reliable, resilient, and economically viable
+power systems.
 
-## Current Focus
+---
+
+## Current Research
 
 ### Data Center Energy Systems
-Load forecasting, emerging load behavior, grid impacts, and energy
-infrastructure for large computing facilities.
+
+Grid impacts, load forecasting, emerging load behavior, resource
+planning, and energy infrastructure for large computing facilities.
+
+[Learn more →](research.qmd#data-center-energy-systems)
 
 ### Microgrids & Energy Storage
-Techno-economic analysis, resilience, PV+BESS systems, and grid-connected
-and islanded microgrids.
+
+Renewable and resilient microgrids, PV+BESS integration,
+techno-economic analysis, grid interaction, and islanded operation.
+
+[Learn more →](research.qmd#microgrids--energy-storage)
 
 ### Photovoltaic Systems
-Bifacial PV, performance modeling, irradiance analysis, and
-data-driven power prediction.
 
-### Power Systems
-Power-system analysis, renewable integration, load modeling, and
-modern grid challenges.
+Bifacial PV, irradiance characterization, performance monitoring,
+energy prediction, and photovoltaic system modeling.
+
+[Learn more →](research.qmd#photovoltaic-systems)
+
+### Power Systems & Energy Analytics
+
+Load modeling, renewable integration, distributed energy resources,
+forecasting, physics-informed modeling, and machine learning for
+energy systems.
+
+[Learn more →](research.qmd#data-analytics-for-energy-systems)
+
+---
 
 ## Selected Work
 
-[Research](research.qmd)  
-[Publications](publications.qmd)  
-[Teaching & Experience](teaching.qmd)  
-[Curriculum Vitae](cv.qmd)
+[Research](research.qmd){.btn .btn-primary}
+[Publications](publications.qmd){.btn .btn-outline-primary}
+[Teaching & Experience](teaching.qmd){.btn .btn-outline-primary}
+[Curriculum Vitae](cv.qmd){.btn .btn-outline-primary}

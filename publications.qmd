@@ -1,25 +1,172 @@
 ---
-title: "Publications"
+title: "Publications & Scholarly Work"
+---
+
+My research spans **power systems, renewable energy microgrids, data center energy systems, photovoltaics, energy storage, and data-driven modeling**.
+
+[Google Scholar](https://scholar.google.com/citations?user=AX_RTcgAAAAJ&hl=en){.btn .btn-primary}
+[Download CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-outline-primary}
+
 ---
 
 ## Journal Articles
 
 ### 2026
 
-**Luis F. Bustos-Márquez**, Steven Hegedus, et al.  
-"Title of paper."  
-*Solar Energy*, 2026.  
-[DOI / Publisher]
+**Bustos-Márquez, L.F.**, & Hegedus, S.  
+**An Algorithmic Framework for Plant-Level AC Power Estimation in a Bifacial Horizontal Single-Axis Tracking PV System Using Explainable and Ensemble Machine Learning.**  
+*Algorithms*, **19**(6), 496, 2026.  
+[DOI](https://doi.org/10.3390/a19060496){target="_blank"}
 
-**Luis F. Bustos-Márquez**, Steven Hegedus.  
-"An Algorithmic Framework for Plant-Level AC Power Estimation..."
-*Algorithms*, 2026.  
-[Paper]
+---
+
+**Bustos-Márquez, L.F.**, & Hegedus, S.  
+**Long-Term Assessment of Rear-to-Front Irradiance Variability and Its Implications for Bifacial PV Performance Monitoring.**  
+*Solar Energy*, **315**, 114784, 2026.  
+[DOI](https://doi.org/10.1016/j.solener.2026.114784){target="_blank"}
+
+---
+
+**Bustos-Márquez, L.F.**, Sepúlveda-Mora, S.B., & Gonzalez-Sepulveda, R.M.  
+**Factors Associated with Performance on the Saber Pro Exams Using Data Analytics and Machine Learning.**  
+*Journal of Research, Development, and Innovation*, 2026.  
+**Accepted.**
+
+---
+
+### 2023
+
+**Bustos-Márquez, L.F.**, Sepúlveda-Mora, S.B., Guevara-Ibarra, D., & Medina-Delgado, B.  
+**MPPT Charge Controller with State of Charge Estimation Method Based on Ampere-Hour Counting and Open Circuit Voltage.**  
+*Ingeniería*, **28**(2), e18722, 2023.  
+[DOI](https://doi.org/10.14483/23448393.18722){target="_blank"}
+
+---
+
+### 2021
+
+Contreras-Sepúlveda, W., Galbán-Pineda, M.G., **Bustos-Márquez, L.F.**, Sepúlveda-Mora, S.B., & Ramírez-Mateus, J.J.  
+**Angström-Prescott Empirical Model to Estimate Solar Radiation in Norte de Santander, Colombia.**  
+*Revista de Investigación, Desarrollo e Innovación*, **11**(2), 413–428, 2021.  
+[DOI](https://doi.org/10.19053/20278306.v11.n2.2021.12765){target="_blank"}
+
+---
+
+### 2019
+
+Sepúlveda-Mora, S.B., Luna-Paipa, E.A., Laguado-Serrano, M.A., & **Bustos-Márquez, L.F.**  
+**Performance Comparison Between PWM and MPPT Charge Controllers.**  
+*Scientia et Technica*, **24**(1), 2019.  
+[DOI](https://doi.org/10.22517/23447214.20681){target="_blank"}
+
+---
+
+## Manuscripts in Preparation
+
+**Bustos-Márquez, L.F.**, & Hegedus, S.  
+**Techno-Economic Analysis of Renewable Energy Microgrids to Power Up AI Data Centers in the USA.**  
+Manuscript in preparation, 2026.
+
+---
 
 ## Conference Publications
 
-...
+### 2026
 
-## Selected Presentations
+**Bustos-Márquez, L.F.**, & Hegedus, S.  
+**Evaluating Resilient Renewable Energy Microgrids for Data Centers in the USA.**  
+*2026 IEEE Transmission & Distribution Conference & Exposition*, Chicago, IL, USA.  
+[DOI](https://doi.org/10.1109/TD48022.2026.11562863){target="_blank"}
 
-...
+---
+
+### 2025
+
+**Bustos-Márquez, L.F.**, & Hegedus, S.  
+**Analyzing Rear-to-Front Irradiance Ratios in Bifacial HSAT Systems Across Varying Sky Conditions.**  
+*2025 IEEE 53rd Photovoltaic Specialists Conference (PVSC)*, Montreal, Canada.  
+[DOI](https://doi.org/10.1109/PVSC59419.2025.11133318){target="_blank"}
+
+---
+
+**Bustos-Márquez, L.F.**, & Hegedus, S.  
+**Peak Load Shaving Utilizing Distributed Residential Photovoltaics and Battery Energy Storage Systems.**  
+*IEEE PES Grid Edge Technologies Conference & Exposition*, San Diego, CA, USA, 2025.
+
+---
+
+### 2024
+
+**Bustos-Márquez, L.F.**, Kaewnukultorn, T., & Hegedus, S.  
+**Front and Rear Irradiance Ratio in Bifacial Photovoltaic Systems.**  
+*2024 IEEE 52nd Photovoltaic Specialists Conference (PVSC)*, Seattle, WA, USA.  
+[DOI](https://doi.org/10.1109/PVSC57443.2024.10749508){target="_blank"}
+
+---
+
+**Bustos-Márquez, L.F.**, Kaewnukultorn, T., & Hegedus, S.  
+**Energy Management Strategy and Solar Utilization in Oversized Solar Array and Grid-Tied Photovoltaic Systems.**  
+*2024 IEEE Conference on Technologies for Sustainability (SusTech)*, Portland, OR, USA.
+
+---
+
+## Selected Invited Talks & Panels
+
+### 2026
+
+**AI and the Environment — Exploring Perspectives on the Environmental Impacts of AI Expansion**  
+Panelist · Delaware Environmental Institute (DENIN), University of Delaware.
+
+**Data Centers and Microgrids: Powering AI Sustainably**  
+Keynote Speaker · 2026 Space Data Centers Summer Camp, George Mason University.
+
+### 2025
+
+**Hybrid Microgrids for Data Center On-Site Power**  
+Speaker · Delaware State Energy Stakeholder Panel.
+
+### 2024
+
+**Analysis of the National Standardized Test Saber Pro of the Undergraduate Program of Electronics Engineering Applying Machine Learning Techniques**  
+Keynote Speaker · XI International Week of Science and Technology.
+
+### 2023
+
+**Peak Load Shaving Utilizing Photovoltaics and Battery Energy Storage Systems**  
+Keynote Speaker · Institute of Energy Conversion Seminar Series, University of Delaware.
+
+**Batteries: The Key to a More Sustainable and Greener Electric Grid**  
+Presenter · PITCH 90, Delaware Environmental Institute.
+
+---
+
+## Patent
+
+**Bustos-Márquez, L.F.**, & Sepúlveda-Mora, S.B.  
+**Device and Method of Charging and Discharging a Battery through Maximum Power Point Tracking.**
+
+Francisco de Paula Santander University · Superintendence of Industry and Commerce  
+Registration No. **NC2017/0008573**  
+IPC Classification: **H02J 7/00, H02J 7/02**  
+Patent term: 2017–2032.
+
+---
+
+## Registered Software
+
+Guevara-Ibarra, D., Medina-Delgado, B., **Bustos-Márquez, L.F.**, Beltrán-Ortega, P.A., Mendoza-García, J.L., & Rolon-Quintero, D.C.  
+**MAPRNI.**  
+National Directorate of Copyright (DNDA), Registration No. 13-71-336, 2019.
+
+**Bustos-Márquez, L.F.**, Sepúlveda-Mora, S.B., & Ramirez-Mateus, J.J.  
+**MPPT Charge Control Algorithm with Incremental Conductance Method.**  
+National Directorate of Copyright (DNDA), Registration No. 13-60-165, 2016.
+
+**Bustos-Márquez, L.F.**, Sepúlveda-Mora, S.B., & Ramirez-Mateus, J.J.  
+**MPPT Charge Control Algorithm with Perturb and Observe Method.**  
+National Directorate of Copyright (DNDA), Registration No. 13-60-165, 2016.
+
+---
+
+For a complete and current publication record, visit my  
+[Google Scholar profile](https://scholar.google.com/citations?user=AX_RTcgAAAAJ&hl=en){target="_blank"}.

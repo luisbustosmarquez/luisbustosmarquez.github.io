@@ -2,22 +2,172 @@
 title: "Research"
 ---
 
+My research focuses on the integration of **emerging electric loads, renewable generation, energy storage, and data-driven methods into modern power systems**.
+
+My work has evolved from photovoltaic system design and performance analysis toward broader questions involving **microgrids, resilience, data centers, load behavior, and grid integration**. Across these areas, I combine physics-based modeling, techno-economic analysis, machine learning, and power-system data analysis to study how energy systems can become more reliable, flexible, and sustainable.
+
+[View Publications](publications.qmd){.btn .btn-primary}
+[Download CV](files/Luis_Bustos_Marquez_CV.pdf){.btn .btn-outline-primary}
+
+---
+
 ## Data Center Energy Systems
 
-My current research examines the energy and power-system implications
-of rapidly growing data-center loads...
+The rapid expansion of artificial intelligence, cloud computing, and high-performance computing is creating a new class of large and highly concentrated electric loads.
 
-## Microgrids and Energy Storage
+My current research examines how data centers interact with the electric grid, with particular attention to **load behavior, energy supply, renewable integration, forecasting, and resilient on-site power systems**.
 
-My work investigates grid-connected and islanded microgrid
-architectures...
+I investigate questions such as:
+
+- How large data-center loads affect grid demand and resource planning.
+- How renewable generation and battery energy storage can reduce dependence on the bulk power system.
+- How grid-connected and islanded microgrids can support data-center reliability and resilience.
+- How different energy-system architectures compare in terms of cost, grid imports, emissions, and operational flexibility.
+- How emerging load patterns can be characterized and incorporated into utility planning and forecasting.
+
+### Selected Work
+
+**Renewable and Resilient Energy Microgrids for AI Data Centers**  
+University of Delaware · 2025–Present
+
+Research on the design and techno-economic evaluation of renewable and resilient microgrid architectures for large data-center loads in the United States.
+
+**Load Forecasting for Emerging Data Center Loads**  
+Dominion Energy · 2026
+
+Analyzed non-conforming and emerging load patterns and investigated data-center load profiles and their implications for electric demand, forecasting uncertainty, and resource planning.
+
+---
+
+## Microgrids & Energy Storage
+
+A major theme of my research is the use of **distributed energy resources, photovoltaic generation, and battery energy storage systems** to improve grid flexibility and resilience.
+
+My work includes both grid-connected and islanded energy-system architectures, with emphasis on the interaction between technical performance and economic feasibility.
+
+Research topics include:
+
+- Renewable and hybrid microgrid design.
+- Photovoltaic and battery energy storage integration.
+- Peak-load management and grid-import reduction.
+- Resilience during grid disturbances and outages.
+- Energy management strategies.
+- Techno-economic optimization of distributed energy resources.
+- Grid-connected versus off-grid system architectures.
+
+### Selected Work
+
+**Design of Renewable and Resilient Microgrids to Enable AI Data Centers**  
+University of Delaware · 2025–Present
+
+Evaluation of renewable generation, battery storage, grid interaction, and dispatch strategies for large computing loads.
+
+**Seasonal Solar Congestion Management (SEASCOM)**  
+University of Delaware, Pecan Street, and Delaware Electric Cooperative · 2025–Present
+
+Research involving distributed solar resources and strategies for managing grid impacts associated with high photovoltaic penetration.
+
+**Peak Load Shaving Using Photovoltaics and Battery Energy Storage Systems**  
+University of Delaware / U.S. Department of Energy · 2022–2023
+
+Modeled PV+BESS systems for peak-load management and resilience and contributed to distributed energy resource integration research.
+
+---
 
 ## Photovoltaic Systems
 
-I have worked extensively on bifacial photovoltaic systems,
-performance monitoring...
+Photovoltaics form the foundation of much of my earlier research and continue to be an important component of my work on microgrids and distributed energy systems.
+
+My photovoltaic research has focused particularly on **bifacial photovoltaic systems, irradiance characterization, performance monitoring, energy prediction, and energy management**.
+
+Key research topics include:
+
+- Bifacial photovoltaic systems.
+- Horizontal single-axis tracking systems.
+- Front- and rear-side irradiance.
+- Rear-to-front irradiance variability.
+- PV performance monitoring.
+- PV power and energy prediction.
+- Oversized photovoltaic arrays.
+- Maximum power point tracking.
+- Off-grid photovoltaic systems.
+
+### Selected Work
+
+**Rear-to-Front Irradiance Variability in Bifacial HSAT Systems**  
+University of Delaware · 2024–2025
+
+Analyzed rear-to-front irradiance ratios across different operating and sky conditions to better understand their implications for bifacial PV performance monitoring.
+
+**Bifacial PV Gain Estimation Using Machine Learning**  
+Institute of Energy Conversion · 2023–2024
+
+Applied machine-learning methods and photovoltaic system measurements to evaluate and predict bifacial PV performance.
+
+**Off-Grid Photovoltaic Systems for Non-Interconnected Regions**  
+Francisco de Paula Santander University · 2017–2018
+
+Designed and evaluated modular off-grid photovoltaic systems for rural regions in Colombia, including solar-resource analysis and energy-demand characterization.
+
+---
 
 ## Data Analytics for Energy Systems
 
-My research uses physics-informed modeling, machine learning,
-statistical analysis...
+Data analysis is a cross-cutting component of my research rather than a separate application area.
+
+I use computational and statistical methods to complement physical energy-system models, particularly when working with large operational datasets or complex relationships that cannot be captured adequately by simple analytical models.
+
+My work includes:
+
+- Physics-informed modeling.
+- Machine learning and ensemble methods.
+- Explainable machine learning.
+- Time-series analysis.
+- Statistical analysis.
+- Load-pattern characterization.
+- Energy forecasting.
+- Data visualization.
+- Performance-model validation.
+
+### Selected Work
+
+**Explainable and Ensemble Machine Learning for PV Power Estimation**
+
+Developed a physics-informed framework for plant-level AC power estimation in a bifacial horizontal single-axis tracking photovoltaic system, combining physical variables with explainable and ensemble machine-learning methods.
+
+**Utility Load Analytics**
+
+Applied data analytics and visualization workflows to utility-scale load datasets to characterize non-conforming and emerging electric loads.
+
+**Educational Data Analytics**
+
+Applied statistical analysis and machine-learning methods to examine factors associated with engineering student performance on standardized examinations.
+
+---
+
+## Research Approach
+
+Although my projects span photovoltaics, microgrids, energy storage, data centers, and load forecasting, they share a common methodological framework:
+
+**Physical System Understanding → Data Analysis → Modeling → Validation → Engineering Decision Support**
+
+I am particularly interested in research problems where physical energy-system behavior and data-driven methods can be combined to support practical decisions in grid planning, renewable integration, system design, and energy management.
+
+---
+
+## Research Interests
+
+- Power Systems
+- Data Center Energy Systems
+- Renewable Energy Microgrids
+- Battery Energy Storage Systems
+- Photovoltaic Systems
+- Distributed Energy Resources
+- Load Forecasting
+- Grid Resilience
+- Energy Data Analytics
+- Machine Learning for Energy Systems
+
+---
+
+[View Publications](publications.qmd){.btn .btn-primary}
