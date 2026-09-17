@@ -4,91 +4,175 @@
     "href": "teaching.html",
     "title": "Teaching & Professional Experience",
     "section": "",
-    "text": "Spring 2027\nInstructor…\n\n\n\nTeaching Assistant…"
+    "text": "My teaching and professional experience spans power systems, renewable energy, photovoltaics, electric circuits, engineering education, and electric-utility analytics.\nI have taught and supported engineering courses in both the United States and Colombia, ranging from introductory circuit analysis to senior- and graduate-level renewable energy courses. My teaching approach emphasizes connecting fundamental engineering principles with computational tools, real-world systems, and current challenges in the electric grid.\nDownload CV"
   },
   {
     "objectID": "teaching.html#university-of-delaware",
     "href": "teaching.html#university-of-delaware",
     "title": "Teaching & Professional Experience",
-    "section": "",
-    "text": "Spring 2027\nInstructor…\n\n\n\nTeaching Assistant…"
+    "section": "University of Delaware",
+    "text": "University of Delaware\n\nElectrical Power Systems — ELEG 415/615\nInstructor · Spring 2027\nI am preparing and teaching ELEG 415/615, a senior- and graduate-level course in electric power systems.\nThe course develops the foundations of power-system analysis while connecting classical methods to modern grid challenges, including renewable generation, distributed energy resources, electrification, energy storage, and emerging large loads such as data centers.\nTopics include power-system modeling, three-phase systems, transformers, transmission and distribution fundamentals, power flow, and the operation and control of modern electric grids.\nMy course design combines:\n\nFundamental power-system theory\nAnalytical problem solving\nComputational examples and engineering software\nReal-world grid applications\nRenewable and distributed energy integration\nEmerging power-system challenges\n\n\n\n\nSolar Electric Technology and Applications — ELEG 428/628\nTeaching Assistant · 2023–Present\nSenior- and graduate-level course covering photovoltaic technology, system design, energy production, and applications.\nMy responsibilities include:\n\nLeading laboratory sessions\nSupporting lectures and technical demonstrations\nGrading assignments and projects\nGuiding senior and graduate student projects\nSupporting students with photovoltaic modeling and system analysis\n\n\n\n\nRenewable Energy Microgrids — ELEG 457/657\nTeaching Assistant · University of Delaware\nSupported instruction for senior and graduate students in renewable energy microgrids.\nResponsibilities included laboratory instruction, lectures, course-material development, and project guidance for classes of more than 80 students."
   },
   {
-    "objectID": "teaching.html#dominion-energy",
-    "href": "teaching.html#dominion-energy",
+    "objectID": "teaching.html#teaching-recognition",
+    "href": "teaching.html#teaching-recognition",
     "title": "Teaching & Professional Experience",
-    "section": "Dominion Energy",
-    "text": "Dominion Energy\n\nGraduate Intern — Load Forecasting\nSummer 2026\nWorked on emerging and non-conforming electric load patterns, including data-center load profiles and forecasting…"
+    "section": "Teaching Recognition",
+    "text": "Teaching Recognition\n\nOutstanding Teaching Assistant Award — 2026\nDepartment of Electrical & Computer Engineering, University of Delaware\nRecognized for excellence in teaching, student support, and instructional contributions in electrical and computer engineering.\n\n\nGraduate Student Excellence in Service & Teaching Award Nominee\nCollege of Engineering, University of Delaware · 2024 & 2026\nNominated for contributions to teaching, service, and student engagement."
   },
   {
-    "objectID": "teaching.html#previous-teaching",
-    "href": "teaching.html#previous-teaching",
+    "objectID": "teaching.html#industry-experience",
+    "href": "teaching.html#industry-experience",
     "title": "Teaching & Professional Experience",
-    "section": "Previous Teaching",
-    "text": "Previous Teaching\n…"
+    "section": "Industry Experience",
+    "text": "Industry Experience\n\nGraduate Intern — Load Forecasting\nDominion Energy · Glen Allen, Virginia · Summer 2026\nWorked with the Load Forecasting team in Electric Transmission on emerging and non-conforming electric load patterns.\nMy work included:\n\nAnalyzing utility-scale load datasets\nInvestigating data center load profiles\nStudying forecasting uncertainty associated with emerging electric loads\nDeveloping data-analysis and visualization workflows\nTranslating analytical findings into insights relevant to utility planning and operations\nCollaborating with load forecasting engineers and planning stakeholders\n\nThis experience strengthened the connection between my academic work and practical power-system planning, particularly in the areas of large-load growth, data centers, grid demand, and forecasting."
+  },
+  {
+    "objectID": "teaching.html#previous-university-teaching",
+    "href": "teaching.html#previous-university-teaching",
+    "title": "Teaching & Professional Experience",
+    "section": "Previous University Teaching",
+    "text": "Previous University Teaching\n\nAdjunct Professor\nFrancisco de Paula Santander University · Cúcuta, Colombia · 2019–2022\nBefore beginning my Ph.D., I taught undergraduate electrical and electronics engineering courses including:\n\nPhotovoltaic Solar Energy\nAnalysis of Electric Circuits in DC and AC\nElectronics I\nAntenna Theory\nMicroelectronics\nIntroduction to Industrial Automation\nIntroduction to Electronic Circuits\n\nI also advised and supervised five undergraduate senior theses and capstone projects, primarily in renewable energy and electronics, and contributed to the development of the Electronics Engineering program curriculum."
+  },
+  {
+    "objectID": "teaching.html#earlier-teaching-experience",
+    "href": "teaching.html#earlier-teaching-experience",
+    "title": "Teaching & Professional Experience",
+    "section": "Earlier Teaching Experience",
+    "text": "Earlier Teaching Experience\n\nMathematics & Physics Teacher\nLondon Bilingual Institute · Cúcuta, Colombia · 2017–2022\nTaught mathematics and physics and served as Chair of the Mathematics Department.\nMy responsibilities included classroom instruction, curriculum coordination, and supervision of student research projects. During this period, the school reached the top 10 in mathematics performance at the state level."
+  },
+  {
+    "objectID": "teaching.html#teaching-development",
+    "href": "teaching.html#teaching-development",
+    "title": "Teaching & Professional Experience",
+    "section": "Teaching Development",
+    "text": "Teaching Development\nMy teaching preparation has included formal training in university instruction, course design, research communication, and engineering education.\nSelected training includes:\nPreparing Future Faculty Workshop · Auburn University\nSummer Institute on Teaching · University of Delaware\nInnovative Teaching Strategies · University of Delaware\nInternational Teaching Assistant Program · University of Delaware\nI was certified as an Instructor Category I through the University of Delaware English Language Institute."
+  },
+  {
+    "objectID": "teaching.html#teaching-areas",
+    "href": "teaching.html#teaching-areas",
+    "title": "Teaching & Professional Experience",
+    "section": "Teaching Areas",
+    "text": "Teaching Areas\nPower Systems · Renewable Energy · Photovoltaic Systems · Microgrids · Electric Circuits · Energy Storage · Engineering Computation\n\nDownload Full CV"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications & Scholarly Work",
     "section": "",
-    "text": "Luis F. Bustos-Márquez, Steven Hegedus, et al.\n“Title of paper.”\nSolar Energy, 2026.\n[DOI / Publisher]\nLuis F. Bustos-Márquez, Steven Hegedus.\n“An Algorithmic Framework for Plant-Level AC Power Estimation…” Algorithms, 2026.\n[Paper]"
+    "text": "My research spans power systems, renewable energy microgrids, data center energy systems, photovoltaics, energy storage, and data-driven modeling.\nGoogle Scholar Download CV"
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "",
-    "text": "Luis F. Bustos-Márquez, Steven Hegedus, et al.\n“Title of paper.”\nSolar Energy, 2026.\n[DOI / Publisher]\nLuis F. Bustos-Márquez, Steven Hegedus.\n“An Algorithmic Framework for Plant-Level AC Power Estimation…” Algorithms, 2026.\n[Paper]"
+    "title": "Publications & Scholarly Work",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n2026\nBustos-Márquez, L.F., & Hegedus, S.\nAn Algorithmic Framework for Plant-Level AC Power Estimation in a Bifacial Horizontal Single-Axis Tracking PV System Using Explainable and Ensemble Machine Learning.\nAlgorithms, 19(6), 496, 2026.\nDOI\n\nBustos-Márquez, L.F., & Hegedus, S.\nLong-Term Assessment of Rear-to-Front Irradiance Variability and Its Implications for Bifacial PV Performance Monitoring.\nSolar Energy, 315, 114784, 2026.\nDOI\n\nBustos-Márquez, L.F., Sepúlveda-Mora, S.B., & Gonzalez-Sepulveda, R.M.\nFactors Associated with Performance on the Saber Pro Exams Using Data Analytics and Machine Learning.\nJournal of Research, Development, and Innovation, 2026.\nAccepted.\n\n\n\n2023\nBustos-Márquez, L.F., Sepúlveda-Mora, S.B., Guevara-Ibarra, D., & Medina-Delgado, B.\nMPPT Charge Controller with State of Charge Estimation Method Based on Ampere-Hour Counting and Open Circuit Voltage.\nIngeniería, 28(2), e18722, 2023.\nDOI\n\n\n\n2021\nContreras-Sepúlveda, W., Galbán-Pineda, M.G., Bustos-Márquez, L.F., Sepúlveda-Mora, S.B., & Ramírez-Mateus, J.J.\nAngström-Prescott Empirical Model to Estimate Solar Radiation in Norte de Santander, Colombia.\nRevista de Investigación, Desarrollo e Innovación, 11(2), 413–428, 2021.\nDOI\n\n\n\n2019\nSepúlveda-Mora, S.B., Luna-Paipa, E.A., Laguado-Serrano, M.A., & Bustos-Márquez, L.F.\nPerformance Comparison Between PWM and MPPT Charge Controllers.\nScientia et Technica, 24(1), 2019.\nDOI"
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications & Scholarly Work",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\nBustos-Márquez, L.F., & Hegedus, S.\nTechno-Economic Analysis of Renewable Energy Microgrids to Power Up AI Data Centers in the USA.\nManuscript in preparation, 2026."
   },
   {
     "objectID": "publications.html#conference-publications",
     "href": "publications.html#conference-publications",
-    "title": "Publications",
+    "title": "Publications & Scholarly Work",
     "section": "Conference Publications",
-    "text": "Conference Publications\n…"
+    "text": "Conference Publications\n\n2026\nBustos-Márquez, L.F., & Hegedus, S.\nEvaluating Resilient Renewable Energy Microgrids for Data Centers in the USA.\n2026 IEEE Transmission & Distribution Conference & Exposition, Chicago, IL, USA.\nDOI\n\n\n\n2025\nBustos-Márquez, L.F., & Hegedus, S.\nAnalyzing Rear-to-Front Irradiance Ratios in Bifacial HSAT Systems Across Varying Sky Conditions.\n2025 IEEE 53rd Photovoltaic Specialists Conference (PVSC), Montreal, Canada.\nDOI\n\nBustos-Márquez, L.F., & Hegedus, S.\nPeak Load Shaving Utilizing Distributed Residential Photovoltaics and Battery Energy Storage Systems.\nIEEE PES Grid Edge Technologies Conference & Exposition, San Diego, CA, USA, 2025.\n\n\n\n2024\nBustos-Márquez, L.F., Kaewnukultorn, T., & Hegedus, S.\nFront and Rear Irradiance Ratio in Bifacial Photovoltaic Systems.\n2024 IEEE 52nd Photovoltaic Specialists Conference (PVSC), Seattle, WA, USA.\nDOI\n\nBustos-Márquez, L.F., Kaewnukultorn, T., & Hegedus, S.\nEnergy Management Strategy and Solar Utilization in Oversized Solar Array and Grid-Tied Photovoltaic Systems.\n2024 IEEE Conference on Technologies for Sustainability (SusTech), Portland, OR, USA."
   },
   {
-    "objectID": "publications.html#selected-presentations",
-    "href": "publications.html#selected-presentations",
-    "title": "Publications",
-    "section": "Selected Presentations",
-    "text": "Selected Presentations\n…"
+    "objectID": "publications.html#selected-invited-talks-panels",
+    "href": "publications.html#selected-invited-talks-panels",
+    "title": "Publications & Scholarly Work",
+    "section": "Selected Invited Talks & Panels",
+    "text": "Selected Invited Talks & Panels\n\n2026\nAI and the Environment — Exploring Perspectives on the Environmental Impacts of AI Expansion\nPanelist · Delaware Environmental Institute (DENIN), University of Delaware.\nData Centers and Microgrids: Powering AI Sustainably\nKeynote Speaker · 2026 Space Data Centers Summer Camp, George Mason University.\n\n\n2025\nHybrid Microgrids for Data Center On-Site Power\nSpeaker · Delaware State Energy Stakeholder Panel.\n\n\n2024\nAnalysis of the National Standardized Test Saber Pro of the Undergraduate Program of Electronics Engineering Applying Machine Learning Techniques\nKeynote Speaker · XI International Week of Science and Technology.\n\n\n2023\nPeak Load Shaving Utilizing Photovoltaics and Battery Energy Storage Systems\nKeynote Speaker · Institute of Energy Conversion Seminar Series, University of Delaware.\nBatteries: The Key to a More Sustainable and Greener Electric Grid\nPresenter · PITCH 90, Delaware Environmental Institute."
+  },
+  {
+    "objectID": "publications.html#patent",
+    "href": "publications.html#patent",
+    "title": "Publications & Scholarly Work",
+    "section": "Patent",
+    "text": "Patent\nBustos-Márquez, L.F., & Sepúlveda-Mora, S.B.\nDevice and Method of Charging and Discharging a Battery through Maximum Power Point Tracking.\nFrancisco de Paula Santander University · Superintendence of Industry and Commerce\nRegistration No. NC2017/0008573\nIPC Classification: H02J 7/00, H02J 7/02\nPatent term: 2017–2032."
+  },
+  {
+    "objectID": "publications.html#registered-software",
+    "href": "publications.html#registered-software",
+    "title": "Publications & Scholarly Work",
+    "section": "Registered Software",
+    "text": "Registered Software\nGuevara-Ibarra, D., Medina-Delgado, B., Bustos-Márquez, L.F., Beltrán-Ortega, P.A., Mendoza-García, J.L., & Rolon-Quintero, D.C.\nMAPRNI.\nNational Directorate of Copyright (DNDA), Registration No. 13-71-336, 2019.\nBustos-Márquez, L.F., Sepúlveda-Mora, S.B., & Ramirez-Mateus, J.J.\nMPPT Charge Control Algorithm with Incremental Conductance Method.\nNational Directorate of Copyright (DNDA), Registration No. 13-60-165, 2016.\nBustos-Márquez, L.F., Sepúlveda-Mora, S.B., & Ramirez-Mateus, J.J.\nMPPT Charge Control Algorithm with Perturb and Observe Method.\nNational Directorate of Copyright (DNDA), Registration No. 13-60-165, 2016.\n\nFor a complete and current publication record, visit my\nGoogle Scholar profile."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "My current curriculum vitae is available below.\nDownload CV"
+    "text": "My work spans power systems, renewable energy, data center energy systems, microgrids, photovoltaics, and data-driven energy analysis. I combine academic research, university teaching, and electric-utility experience, with particular interests in emerging electric loads, renewable integration, energy storage, and resilient power systems.\nDownload Full CV"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nPh.D. Candidate, Electrical & Computer Engineering\nUniversity of Delaware\n…"
+    "text": "Education\n\nPh.D. Candidate in Electrical & Computer Engineering\nUniversity of Delaware · Newark, Delaware, USA\n2022–Present · Expected May 2027\nGPA: 3.9/4.0\nResearch focus: power systems, renewable energy microgrids, data center energy systems, photovoltaics, energy storage, and data analytics.\n\n\nM.S. in Mathematics Education\nFrancisco de Paula Santander University · Cúcuta, Colombia\n2020–2022\nGPA: 4.8/5.0\n\n\nSpecialist in University Pedagogical Practice\nFrancisco de Paula Santander University · Cúcuta, Colombia\n2017–2018\nGPA: 4.8/5.0\n\n\nB.S. in Electronics Engineering\nFrancisco de Paula Santander University · Cúcuta, Colombia\n2010–2016\nGPA: 4.2/5.0"
   },
   {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
+    "objectID": "cv.html#professional-research-experience",
+    "href": "cv.html#professional-research-experience",
     "title": "Curriculum Vitae",
-    "section": "Research Experience",
-    "text": "Research Experience\n…"
+    "section": "Professional & Research Experience",
+    "text": "Professional & Research Experience\n\nGraduate Intern — Load Forecasting\nDominion Energy · Glen Allen, Virginia, USA\nMay–August 2026\n\nAnalyzed non-conforming and emerging electric load patterns to support utility forecasting and planning.\nInvestigated data center load profiles and their implications for grid demand, forecasting uncertainty, and resource planning.\nApplied data analytics and visualization workflows to utility-scale load datasets.\nCollaborated with load forecasting engineers and planning stakeholders to translate analytical results into operational insights.\n\n\n\nResearch Assistant\nInstitute of Energy Conversion, University of Delaware\n2022–Present\n\nResearch renewable and resilient microgrid architectures for emerging data center loads.\nApply machine learning and data analytics to bifacial photovoltaic system modeling and energy prediction.\nModel PV and battery energy storage systems for peak-load management and resilience.\nContributed to research involving distributed energy resource integration and faster-than-real-time simulation.\nMentor graduate students working on machine learning and renewable-energy data projects.\n\n\n\nTeaching Assistant\nDepartment of Electrical & Computer Engineering, University of Delaware\n2023–Present\n\nSupport senior- and graduate-level instruction in renewable energy and photovoltaic systems.\nLead laboratory activities, lectures, project guidance, and technical instruction.\nDevelop instructional material and support student projects in renewable energy systems.\n\n\n\nAdjunct Professor\nFrancisco de Paula Santander University · Cúcuta, Colombia\n2019–2022\nTaught undergraduate courses including:\n\nPhotovoltaic Solar Energy\nElectric Circuits\nElectronics\nAntenna Theory\nMicroelectronics\nIndustrial Automation\n\nAdvised and supervised undergraduate theses and capstone projects in renewable energy and electronics."
   },
   {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
+    "objectID": "cv.html#selected-research-areas",
+    "href": "cv.html#selected-research-areas",
     "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\n…"
+    "section": "Selected Research Areas",
+    "text": "Selected Research Areas\n\nData Center Energy Systems\nGrid impacts, load forecasting, emerging electric loads, microgrids, and energy infrastructure for large computing facilities.\n\n\nRenewable & Resilient Microgrids\nTechno-economic analysis, PV+BESS systems, grid-connected and islanded architectures, resilience, and energy management.\n\n\nPhotovoltaic Systems\nBifacial PV, irradiance characterization, performance monitoring, system modeling, and machine-learning-assisted power prediction.\n\n\nPower Systems & Energy Storage\nDistributed energy resources, peak-load management, renewable integration, battery storage, and modern grid challenges.\nExplore my research"
   },
   {
-    "objectID": "cv.html#awards",
-    "href": "cv.html#awards",
+    "objectID": "cv.html#selected-honors-awards",
+    "href": "cv.html#selected-honors-awards",
     "title": "Curriculum Vitae",
-    "section": "Awards",
-    "text": "Awards\n…"
+    "section": "Selected Honors & Awards",
+    "text": "Selected Honors & Awards\n2026 — Best Poster Award\nDominion Energy Virginia, Electric Transmission\n2026 — Outstanding Teaching Assistant Award\nDepartment of Electrical & Computer Engineering, University of Delaware\n2026 — Student Grant Award\nHispanics in Energy – Virginia\n2025 — Junior Researcher & National Peer Reviewer\nMinistry of Science, Technology, and Innovation (MinCiencias), Colombia\n2025 — Best Poster Award\nDepartment of Electrical & Computer Engineering, University of Delaware\n2025 — Ph.D. Dissertation Challenge Finalist\nIEEE PES Grid Edge Technologies Conference & Exposition\n2024 — Westerman Family Graduate Research Fund Fellowship\nUniversity of Delaware\n2024 — Best Poster Award\nIEEE Conference on Technologies for Sustainability (SusTech)\n2024 — Best Student Oral Presentation Award Finalist\nIEEE Photovoltaic Specialists Conference\n2023 — Best Poster Award\nDelaware Environmental Institute Environmental Symposium\n2016 — National Top Score, Saber Pro Examination\nElectronics Engineering, Colombia"
+  },
+  {
+    "objectID": "cv.html#publications-scholarly-work",
+    "href": "cv.html#publications-scholarly-work",
+    "title": "Curriculum Vitae",
+    "section": "Publications & Scholarly Work",
+    "text": "Publications & Scholarly Work\nMy scholarly work includes peer-reviewed journal articles and conference papers in:\n\nRenewable energy microgrids\nData center energy systems\nBifacial photovoltaic systems\nMachine learning for PV power estimation\nEnergy storage and peak-load management\nSolar-energy resource assessment\nEngineering education and educational data analytics\n\nRecent journal publications include work in Solar Energy and Algorithms, along with additional research in photovoltaic systems, energy management, and engineering education.\nView Publications"
+  },
+  {
+    "objectID": "cv.html#patent-intellectual-property",
+    "href": "cv.html#patent-intellectual-property",
+    "title": "Curriculum Vitae",
+    "section": "Patent & Intellectual Property",
+    "text": "Patent & Intellectual Property\nDevice and Method of Charging and Discharging a Battery through Maximum Power Point Tracking\nCo-inventor · Francisco de Paula Santander University\nPatent registration active through 2032.\nAdditional registered software includes photovoltaic MPPT control algorithms and research software developed through university research projects."
+  },
+  {
+    "objectID": "cv.html#teaching-academic-leadership",
+    "href": "cv.html#teaching-academic-leadership",
+    "title": "Curriculum Vitae",
+    "section": "Teaching & Academic Leadership",
+    "text": "Teaching & Academic Leadership\nMy teaching experience spans university instruction in the United States and Colombia, including renewable energy, photovoltaics, electric circuits, electronics, and engineering applications.\nI have also contributed to graduate-student leadership, engineering outreach, curriculum development, and professional engagement.\nTeaching & Professional Experience"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nAdvanced:\nPython · MATLAB · HOMER Grid · System Advisor Model (SAM) · Microsoft Office · OrCAD\nIntermediate:\nLaTeX · Xendee · C++ · R\nEnergy Systems:\nMicrogrid modeling · Photovoltaic systems · Battery energy storage · Load forecasting · Energy data analytics\nLanguages:\nSpanish — Native\nEnglish — Advanced"
+  },
+  {
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
+    "title": "Curriculum Vitae",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nIEEE — Professional Member\nIEEE Power & Energy Society\nIEEE Young Professionals\nIEEE Smart Grid Community\nTau Beta Pi — Graduate Member\nSigma Xi — Full Member\nColombian Association of Engineers (ACIEM) — Professional Member\n\n\nDownload Full CV"
   },
   {
     "objectID": "about.html",
@@ -102,55 +186,76 @@
     "href": "index.html",
     "title": "Luis Fernando Bustos Márquez",
     "section": "",
-    "text": "Power Systems • Data Center Energy • Microgrids • Photovoltaics\nI am a Ph.D. Candidate in Electrical and Computer Engineering at the University of Delaware, with research and industry experience spanning power systems, renewable energy, data-center energy systems, load forecasting, photovoltaics, microgrids, and data analytics.\nMy work focuses on understanding and designing energy systems that integrate emerging electric loads, distributed energy resources, renewable generation, energy storage, and data-driven methods.\n\n\n\n\nLoad forecasting, emerging load behavior, grid impacts, and energy infrastructure for large computing facilities.\n\n\n\nTechno-economic analysis, resilience, PV+BESS systems, and grid-connected and islanded microgrids.\n\n\n\nBifacial PV, performance modeling, irradiance analysis, and data-driven power prediction.\n\n\n\nPower-system analysis, renewable integration, load modeling, and modern grid challenges.\n\n\n\n\nResearch\nPublications\nTeaching & Experience\nCurriculum Vitae"
+    "text": "Power Systems · Data Center Energy · Microgrids · Photovoltaics\nI am a Ph.D. Candidate in Electrical and Computer Engineering at the University of Delaware. My work spans power systems, renewable energy, data-center energy systems, microgrids, photovoltaics, energy storage, load forecasting, and data-driven energy analysis.\nMy research focuses on understanding how emerging electric loads, distributed energy resources, renewable generation, and energy storage can be integrated into reliable, resilient, and economically viable power systems."
   },
   {
-    "objectID": "index.html#current-focus",
-    "href": "index.html#current-focus",
+    "objectID": "index.html#electrical-engineer-researcher",
+    "href": "index.html#electrical-engineer-researcher",
     "title": "Luis Fernando Bustos Márquez",
     "section": "",
-    "text": "Load forecasting, emerging load behavior, grid impacts, and energy infrastructure for large computing facilities.\n\n\n\nTechno-economic analysis, resilience, PV+BESS systems, and grid-connected and islanded microgrids.\n\n\n\nBifacial PV, performance modeling, irradiance analysis, and data-driven power prediction.\n\n\n\nPower-system analysis, renewable integration, load modeling, and modern grid challenges."
+    "text": "Power Systems · Data Center Energy · Microgrids · Photovoltaics\nI am a Ph.D. Candidate in Electrical and Computer Engineering at the University of Delaware. My work spans power systems, renewable energy, data-center energy systems, microgrids, photovoltaics, energy storage, load forecasting, and data-driven energy analysis.\nMy research focuses on understanding how emerging electric loads, distributed energy resources, renewable generation, and energy storage can be integrated into reliable, resilient, and economically viable power systems."
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Luis Fernando Bustos Márquez",
+    "section": "Current Research",
+    "text": "Current Research\n\nData Center Energy Systems\nGrid impacts, load forecasting, emerging load behavior, resource planning, and energy infrastructure for large computing facilities.\nLearn more →\n\n\nMicrogrids & Energy Storage\nRenewable and resilient microgrids, PV+BESS integration, techno-economic analysis, grid interaction, and islanded operation.\nLearn more →\n\n\nPhotovoltaic Systems\nBifacial PV, irradiance characterization, performance monitoring, energy prediction, and photovoltaic system modeling.\nLearn more →\n\n\nPower Systems & Energy Analytics\nLoad modeling, renewable integration, distributed energy resources, forecasting, physics-informed modeling, and machine learning for energy systems.\nLearn more →"
   },
   {
     "objectID": "index.html#selected-work",
     "href": "index.html#selected-work",
     "title": "Luis Fernando Bustos Márquez",
-    "section": "",
-    "text": "Research\nPublications\nTeaching & Experience\nCurriculum Vitae"
+    "section": "Selected Work",
+    "text": "Selected Work\nResearch Publications Teaching & Experience Curriculum Vitae"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My current research examines the energy and power-system implications of rapidly growing data-center loads…"
+    "text": "My research focuses on the integration of emerging electric loads, renewable generation, energy storage, and data-driven methods into modern power systems.\nMy work has evolved from photovoltaic system design and performance analysis toward broader questions involving microgrids, resilience, data centers, load behavior, and grid integration. Across these areas, I combine physics-based modeling, techno-economic analysis, machine learning, and power-system data analysis to study how energy systems can become more reliable, flexible, and sustainable.\nView Publications Download CV"
   },
   {
     "objectID": "research.html#data-center-energy-systems",
     "href": "research.html#data-center-energy-systems",
     "title": "Research",
-    "section": "",
-    "text": "My current research examines the energy and power-system implications of rapidly growing data-center loads…"
+    "section": "Data Center Energy Systems",
+    "text": "Data Center Energy Systems\nThe rapid expansion of artificial intelligence, cloud computing, and high-performance computing is creating a new class of large and highly concentrated electric loads.\nMy current research examines how data centers interact with the electric grid, with particular attention to load behavior, energy supply, renewable integration, forecasting, and resilient on-site power systems.\nI investigate questions such as:\n\nHow large data-center loads affect grid demand and resource planning.\nHow renewable generation and battery energy storage can reduce dependence on the bulk power system.\nHow grid-connected and islanded microgrids can support data-center reliability and resilience.\nHow different energy-system architectures compare in terms of cost, grid imports, emissions, and operational flexibility.\nHow emerging load patterns can be characterized and incorporated into utility planning and forecasting.\n\n\nSelected Work\nRenewable and Resilient Energy Microgrids for AI Data Centers\nUniversity of Delaware · 2025–Present\nResearch on the design and techno-economic evaluation of renewable and resilient microgrid architectures for large data-center loads in the United States.\nLoad Forecasting for Emerging Data Center Loads\nDominion Energy · 2026\nAnalyzed non-conforming and emerging load patterns and investigated data-center load profiles and their implications for electric demand, forecasting uncertainty, and resource planning."
   },
   {
-    "objectID": "research.html#microgrids-and-energy-storage",
-    "href": "research.html#microgrids-and-energy-storage",
+    "objectID": "research.html#microgrids-energy-storage",
+    "href": "research.html#microgrids-energy-storage",
     "title": "Research",
-    "section": "Microgrids and Energy Storage",
-    "text": "Microgrids and Energy Storage\nMy work investigates grid-connected and islanded microgrid architectures…"
+    "section": "Microgrids & Energy Storage",
+    "text": "Microgrids & Energy Storage\nA major theme of my research is the use of distributed energy resources, photovoltaic generation, and battery energy storage systems to improve grid flexibility and resilience.\nMy work includes both grid-connected and islanded energy-system architectures, with emphasis on the interaction between technical performance and economic feasibility.\nResearch topics include:\n\nRenewable and hybrid microgrid design.\nPhotovoltaic and battery energy storage integration.\nPeak-load management and grid-import reduction.\nResilience during grid disturbances and outages.\nEnergy management strategies.\nTechno-economic optimization of distributed energy resources.\nGrid-connected versus off-grid system architectures.\n\n\nSelected Work\nDesign of Renewable and Resilient Microgrids to Enable AI Data Centers\nUniversity of Delaware · 2025–Present\nEvaluation of renewable generation, battery storage, grid interaction, and dispatch strategies for large computing loads.\nSeasonal Solar Congestion Management (SEASCOM)\nUniversity of Delaware, Pecan Street, and Delaware Electric Cooperative · 2025–Present\nResearch involving distributed solar resources and strategies for managing grid impacts associated with high photovoltaic penetration.\nPeak Load Shaving Using Photovoltaics and Battery Energy Storage Systems\nUniversity of Delaware / U.S. Department of Energy · 2022–2023\nModeled PV+BESS systems for peak-load management and resilience and contributed to distributed energy resource integration research."
   },
   {
     "objectID": "research.html#photovoltaic-systems",
     "href": "research.html#photovoltaic-systems",
     "title": "Research",
     "section": "Photovoltaic Systems",
-    "text": "Photovoltaic Systems\nI have worked extensively on bifacial photovoltaic systems, performance monitoring…"
+    "text": "Photovoltaic Systems\nPhotovoltaics form the foundation of much of my earlier research and continue to be an important component of my work on microgrids and distributed energy systems.\nMy photovoltaic research has focused particularly on bifacial photovoltaic systems, irradiance characterization, performance monitoring, energy prediction, and energy management.\nKey research topics include:\n\nBifacial photovoltaic systems.\nHorizontal single-axis tracking systems.\nFront- and rear-side irradiance.\nRear-to-front irradiance variability.\nPV performance monitoring.\nPV power and energy prediction.\nOversized photovoltaic arrays.\nMaximum power point tracking.\nOff-grid photovoltaic systems.\n\n\nSelected Work\nRear-to-Front Irradiance Variability in Bifacial HSAT Systems\nUniversity of Delaware · 2024–2025\nAnalyzed rear-to-front irradiance ratios across different operating and sky conditions to better understand their implications for bifacial PV performance monitoring.\nBifacial PV Gain Estimation Using Machine Learning\nInstitute of Energy Conversion · 2023–2024\nApplied machine-learning methods and photovoltaic system measurements to evaluate and predict bifacial PV performance.\nOff-Grid Photovoltaic Systems for Non-Interconnected Regions\nFrancisco de Paula Santander University · 2017–2018\nDesigned and evaluated modular off-grid photovoltaic systems for rural regions in Colombia, including solar-resource analysis and energy-demand characterization."
   },
   {
     "objectID": "research.html#data-analytics-for-energy-systems",
     "href": "research.html#data-analytics-for-energy-systems",
     "title": "Research",
     "section": "Data Analytics for Energy Systems",
-    "text": "Data Analytics for Energy Systems\nMy research uses physics-informed modeling, machine learning, statistical analysis…"
+    "text": "Data Analytics for Energy Systems\nData analysis is a cross-cutting component of my research rather than a separate application area.\nI use computational and statistical methods to complement physical energy-system models, particularly when working with large operational datasets or complex relationships that cannot be captured adequately by simple analytical models.\nMy work includes:\n\nPhysics-informed modeling.\nMachine learning and ensemble methods.\nExplainable machine learning.\nTime-series analysis.\nStatistical analysis.\nLoad-pattern characterization.\nEnergy forecasting.\nData visualization.\nPerformance-model validation.\n\n\nSelected Work\nExplainable and Ensemble Machine Learning for PV Power Estimation\nDeveloped a physics-informed framework for plant-level AC power estimation in a bifacial horizontal single-axis tracking photovoltaic system, combining physical variables with explainable and ensemble machine-learning methods.\nUtility Load Analytics\nApplied data analytics and visualization workflows to utility-scale load datasets to characterize non-conforming and emerging electric loads.\nEducational Data Analytics\nApplied statistical analysis and machine-learning methods to examine factors associated with engineering student performance on standardized examinations."
+  },
+  {
+    "objectID": "research.html#research-approach",
+    "href": "research.html#research-approach",
+    "title": "Research",
+    "section": "Research Approach",
+    "text": "Research Approach\nAlthough my projects span photovoltaics, microgrids, energy storage, data centers, and load forecasting, they share a common methodological framework:\nPhysical System Understanding → Data Analysis → Modeling → Validation → Engineering Decision Support\nI am particularly interested in research problems where physical energy-system behavior and data-driven methods can be combined to support practical decisions in grid planning, renewable integration, system design, and energy management."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nPower Systems\nData Center Energy Systems\nRenewable Energy Microgrids\nBattery Energy Storage Systems\nPhotovoltaic Systems\nDistributed Energy Resources\nLoad Forecasting\nGrid Resilience\nEnergy Data Analytics\nMachine Learning for Energy Systems\n\n\nView Publications"
   }
 ]
